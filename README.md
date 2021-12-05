@@ -1,7 +1,7 @@
 # list files and folders using python
 list files and folders
 
-binary pyFilesFoldersListing files compiled with pyinstaller on linux debian os (linux mint).
+binary pyFilesFoldersListingLinux files compiled with pyinstaller on linux debian os (linux mint).
 
 When running this, 2 FIELDS NEED TO BE CHANGED TO SOME EXISTING FOLDERS ON THE RUNNING OS
 1° "Enter Path (WD)"
